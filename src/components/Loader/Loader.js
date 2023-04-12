@@ -1,5 +1,5 @@
 import React from 'react';
-import ClimbingBoxLoader from 'react-spinners';
+import {ClimbingBoxLoader} from 'react-spinners';
 import './loader.css'
 
 function Loader() {

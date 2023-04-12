@@ -6,6 +6,7 @@ function Loader() {
   return (
     <div className='loader'>
       <ClimbingBoxLoader />
+      <h3>LOADING</h3>
     </div>
   );
 }

@@ -23,12 +23,12 @@ function ApiWorks() {
 
   return (
     <div>
-        {/* {
+        {
             data ? data.map((i)=>(
                 <h5 key={i.id}>{i.name}</h5>
-            )) : */}
+            )) :
             <Loader />
-        {/* } */}
+        }
     </div>
   );
 }

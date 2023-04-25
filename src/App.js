@@ -1,4 +1,3 @@
-import './App.css';
 import Counter from './components/Counter/Counter';
 import ApiWorks from './components/ApiWorks/ApiWorks';
 
